@@ -1,4 +1,4 @@
-# Adrian Cheung 101152541
+
 import pygame		#import pygame
 
 instructions = input("Welcome to Adrian's green screen program. Would you like to receive instructions? [yes/no] " ).upper()#User inputs if they want instructions. upper allows to user to enter an answer with any combination of cases and will still accept
